@@ -13,4 +13,4 @@ jobs:
           go-version: '^1.18'
       - name: test
         run: |
-          sleep 120
+          sleep 240
